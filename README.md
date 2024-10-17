@@ -2,6 +2,6 @@
 - 👀 I’m interested in backend software engineering
 - 🌱 I’m currently learning all the concepts of deploying an API
 - 💞️ I’m looking to collaborate on everything that seems interesting
-- 📫 How to reach me: Leave me an email at iulianprodan6@gmail.com
+- 📫 How to reach me: Leave an email at iulianprodan6@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm good at video games
