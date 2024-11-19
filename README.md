@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julian24356
 - 👀 I’m interested in backend software engineering
-- 🌱 I’m currently learning all the concepts of developing an API
-- 💞️ I’m looking to collaborate on everything that seems interesting
+- 🌱 I’m constantly exploring and learning new skills
+- 💞️ I’m looking to collaborate on video games engineering
 - 📫 How to reach me: Leave an email at iulianprodan6@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm good at video games
